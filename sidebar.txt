@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ues:home|Door43 (ues)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ues|d43-ues repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ues/archive/master.zip|d43-ues.zip]]
+
+**Recent Changes**
+{{changes>ns = ues}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ues|Ethnologue data]]
+
